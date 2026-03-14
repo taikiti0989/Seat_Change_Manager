@@ -1,0 +1,3 @@
+([('席替えソフト',
+   '/Users/taisei/Desktop/tmp/soft/python/席替え/dist/席替えソフト',
+   'EXECUTABLE')],)
